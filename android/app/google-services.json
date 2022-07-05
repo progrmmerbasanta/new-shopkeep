@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171924182350",
+    "project_id": "shopkeeper-95cf2",
+    "storage_bucket": "shopkeeper-95cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171924182350:android:bb863b2b1da8c370c5ba1f",
+        "android_client_info": {
+          "package_name": "com.example.testproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171924182350-bhmfgeiug0hice3asj605fq8760mhnu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mMYDCSkcp9Ob-PXrmrhQ9SYQ7_pNLHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171924182350-bhmfgeiug0hice3asj605fq8760mhnu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
